@@ -2,6 +2,9 @@
 
 Core-2021.3.1 or later required
 
+## Note
+This fork was made to create a seperate namespace as to not clobber the existing integration while I test a few things. You should use the original author's integration (@jdeath).
+
 ## Installation
 
 ### HACS (prefered)

@@ -7,7 +7,7 @@ DEFAULT_NAME = "Minecraft Server"
 DEFAULT_TYPE = "JAVA"
 DEFAULT_PORT = 25565
 
-DOMAIN = "minecraft_server"
+DOMAIN = "minecraft_bedrock_server"
 
 ICON_LATENCY_TIME = "mdi:signal"
 ICON_PLAYERS_MAX = "mdi:account-multiple"
